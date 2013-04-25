@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Otacon Mortgage Calculator Widget
-Plugin URI: http://google.com
+Plugin Name: Mortgage Calculator Widget
+Plugin URI: http://digitalmichael.net
 Description: A simple mortgage calculator widget
 Version: 1.0.0
-Author: Hal Emerich
-Author URI: http://google.com
+Author: Michael Harris
+Author URI: http://digitalmichael.net
 */
 
 /*-----------------------------------------------------------------------------------*/
